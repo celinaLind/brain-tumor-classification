@@ -3,8 +3,8 @@
 User is able to upload an MRI scan image and have it classified as no tumor or one of the three main brain tumor typse (Glioma, Meningioma, or Pituitary). This classification is done by a model pretrained by Xtension or a Custom CNN (Convolutional Neural Network). The user is then able to gain a better understanding of the models "thought-process" by reviewing the saliency map or by reading the gemini-generated explanation based on the users understanding level.
 
 *Note: The notebooks provided show the code, outputs, and notes.*
-"Project_2_AI..." notebook houses Transfer Learning - Xtension model and the Streamlit App
-"..." notebook houses the functional Custom CNN model and outputs
+- "Project_2_AI..." notebook houses Transfer Learning - Xtension model and the Streamlit App
+- "..." notebook houses the functional Custom CNN model and outputs
 
 ## Table of Contents
 - [Tools Used](#tools-used)
