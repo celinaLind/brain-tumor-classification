@@ -6,15 +6,19 @@ User is able to upload an MRI scan image and have it classified as no tumor or o
 - "Project_2_AI..." notebook houses Transfer Learning - Xtension model and the Streamlit App
 - "..." notebook houses the functional Custom CNN model and outputs
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6Iqy5IBMDg?si=takr1H079ldVdAKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Table of Contents
-- [Tools Used](#tools-used)
+- [Skills Used](#skills-used)
 - [Development Issues](#development-issues)
 - [Notes](#notes)
 
-## Knowledge/Tools Used
+## Skills Used
 - Python
 - Tensorflow
 - Gemini 1.5-Flash
+- Neural Networks
+- Computer Vision
 - Sklearn
 - Seaborn
 - Pandas
