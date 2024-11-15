@@ -13,6 +13,7 @@ User is able to upload an MRI scan image and have it classified as no tumor or o
 - [Skills Used](#skills-used)
 - [Development Issues](#development-issues)
 - [Notes](#notes)
+- [Resources](#resources)
 
 ## Skills Used
 - Python
@@ -48,3 +49,12 @@ This utilizes a larger pretrained model (Xtension) to train a smaller more speci
 
 #### [Streamlit](https://streamlit.io/)
 An open-source Python framework for building and sharing applications.
+
+## Resources
+- [Kaggle Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
+- [How a Neural Network Learns](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [What is Convolution](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+- [Interactive CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [What is Transfer Learning?](https://builtin.com/data-science/transfer-learning)
+- [Saliency Map Implementation](https://medium.com/@bijil.subhash/explainable-ai-saliency-maps-89098e230100)
